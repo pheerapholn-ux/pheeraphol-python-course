@@ -10,9 +10,9 @@ print("My name is Your Name")
 # Write three print statements that display:
 # Line 1: Your name
 # Line 2: Your age
-# Line 3: Your favorite hobbyๅ
+# Line 3: Your favorite hobby
 # Write your code here:
-
+print("pheeraphol")
 
 # Exercise 4: Print with Different Content
 # Use print() to display the following (one per line):
@@ -20,7 +20,7 @@ print("My name is Your Name")
 # - A word
 # - A sentence with spaces
 
-# Write your code here:
+# Write your code here
 
 
 
