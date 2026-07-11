@@ -1,0 +1,18 @@
+print("1. Circle Calculator:")
+print("   - Ask user for radius")
+print("   - Calculate area (π * r²)")
+print("   - Calculate circumference (2 * π * r)")
+print("   - Use 3.14159 for π")
+print("_"*50)
+print()
+#input
+redius = float(input("radius: "))
+#process
+area = 3.14159 *redius **2
+circumference = 2 * 3.14159 * redius
+#output
+print(f"Area of this circle : {area}") #{area:.2f}
+print(f"circumference of this circle : {circumference}")
+
+print("_"*50)
+print()
