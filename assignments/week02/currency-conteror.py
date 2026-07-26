@@ -1,5 +1,3 @@
-#Currency Converter
-
 print("Currency Converter")
 
 print("\nAll choice to use")
