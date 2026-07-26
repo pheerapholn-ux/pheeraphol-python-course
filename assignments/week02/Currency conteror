@@ -1,0 +1,29 @@
+#Currency Converter
+
+print("Currency Converter")
+
+print("\nAll choice to use")
+print("1.Convert Thai Baht (THB) to US Dollars (USD)")
+print("2.Convert US Dollars (USD) to Thai Baht (THB)")
+print("EXCHANGE_RATE = 35.5")
+
+choice = input("Choose conversion direction (1 or 2): ")
+
+EXCHANGE_RATE = 35.5
+
+if choice == "1":
+    THB = float(input("Enter Amount in Bath: "))
+    USD = THB / EXCHANGE_RATE
+    print("\n== Result ==")
+    print(f"Formula: USD = THB / {EXCHANGE_RATE}")
+    print(f"{THB:.2f} THB = {USD:.2f} USD")
+
+elif choice == "2":
+    USD = float(input("Enter Amount in Dollas: "))
+    THB = USD * EXCHANGE_RATE
+    print("\n== Result ==")
+    print(f"Formula: THB = USD * {EXCHANGE_RATE}")
+    print(f"{USD:.2f} USD = {THB:.2f} THB")
+
+else:
+    print("Invalid choice! Please run the program again and select 1 or 2.")
