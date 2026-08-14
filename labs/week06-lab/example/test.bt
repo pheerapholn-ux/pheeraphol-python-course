@@ -1,0 +1,52 @@
+Part2
+# Example 1: Function with one parameter
+
+Calling greet_person with different names:
+Hello, Alice! Nice to meet you.
+Hello, Bob! Nice to meet you.
+Hello, Charlie! Nice to meet you.
+
+# Example 2: Function with multiple parameters
+
+Calling introduce_person:
+Hi! My name is Diana.
+I am 25 years old.
+I live in New York.
+
+Hi! My name is Eve.
+I am 30 years old.
+I live in Los Angeles.
+
+# Example 3: Mathematical function
+
+Calculating rectangle areas:
+Rectangle with length 5 and width 3
+Area = 5 × 3 = 15
+
+Rectangle with length 10 and width 7
+Area = 10 × 7 = 70
+
+Part3
+# Example 1: Function that returns a value
+
+Using functions that return values:
+5 + 3 = 8
+10 + 7 = 17
+Sum of both results: 25
+
+# Example 2: Function returning multiple values
+
+Circle calculations:
+Circle with radius 5:
+Area: 78.54
+Circumference: 31.42
+
+Part4
+# Example 1: Function with default parameter
+
+Using default parameters:
+Hello, Mr./Ms. Smith!
+Hello, Dr. Johnson!
+Hello, Prof. Brown!
+
+# Example 2: Multiple default parameters
